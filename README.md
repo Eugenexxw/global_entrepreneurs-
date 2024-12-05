@@ -37,7 +37,7 @@
 <body>
     <div class="container">
         <div class="surprise">🎉 Вітаємо! Ось ваш подарунок! 🎉</div>
-        <a class="download-button" href="/mnt/data/4_5930571132435433199.mp4" download="Presentation.mp4">Завантажити презентацію</a>
+        <a class="download-button" href="Presentation.mp4" download="Presentation.mp4">Завантажити презентацію</a>
     </div>
 </body>
 </html>
